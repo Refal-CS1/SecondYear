@@ -1,4 +1,5 @@
-package com.mycompany.tutorial2x4;
+
+\\(CLASS BOOK-AUTHOR-BOOKTEST-LIBRARY-TESTINGCLASS)
 
 
 public class BookTest {
