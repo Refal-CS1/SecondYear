@@ -1,4 +1,4 @@
-
+\\(CLASS BOOK-AUTHOR-BOOKTEST-LIBRARY-TESTINGCLASS)
 public class Author {
     private final String name;
    private final String email;
