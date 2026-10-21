@@ -1,7 +1,7 @@
 package com.mycompany.tutorial2x4;
 
 
-public class BookTest {/*
+public class BookTest {
     public static void main(String[] args) {
         Author au=new Author("Ray","Rayson@gmail.com");
         Book book1=new Book("Fighter of the dark land",au,"1223");
@@ -25,5 +25,5 @@ public class BookTest {/*
         System.out.println(book5);
         
         
-    }*/
+    }
 }
